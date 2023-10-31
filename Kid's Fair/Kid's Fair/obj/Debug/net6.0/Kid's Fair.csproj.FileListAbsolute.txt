@@ -1,0 +1,29 @@
+C:\Users\ployp\source\repos\Kid's Fair\Kid's Fair\bin\Debug\net6.0\Kid's Fair.exe
+C:\Users\ployp\source\repos\Kid's Fair\Kid's Fair\bin\Debug\net6.0\Kid's Fair.deps.json
+C:\Users\ployp\source\repos\Kid's Fair\Kid's Fair\bin\Debug\net6.0\Kid's Fair.runtimeconfig.json
+C:\Users\ployp\source\repos\Kid's Fair\Kid's Fair\bin\Debug\net6.0\Kid's Fair.dll
+C:\Users\ployp\source\repos\Kid's Fair\Kid's Fair\bin\Debug\net6.0\Kid's Fair.pdb
+C:\Users\ployp\source\repos\Kid's Fair\Kid's Fair\obj\Debug\net6.0\Kid's Fair.csproj.AssemblyReference.cache
+C:\Users\ployp\source\repos\Kid's Fair\Kid's Fair\obj\Debug\net6.0\Kid's Fair.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ployp\source\repos\Kid's Fair\Kid's Fair\obj\Debug\net6.0\Kid's Fair.AssemblyInfoInputs.cache
+C:\Users\ployp\source\repos\Kid's Fair\Kid's Fair\obj\Debug\net6.0\Kid's Fair.AssemblyInfo.cs
+C:\Users\ployp\source\repos\Kid's Fair\Kid's Fair\obj\Debug\net6.0\Kid's Fair.csproj.CoreCompileInputs.cache
+C:\Users\ployp\source\repos\Kid's Fair\Kid's Fair\obj\Debug\net6.0\Kid's Fair.dll
+C:\Users\ployp\source\repos\Kid's Fair\Kid's Fair\obj\Debug\net6.0\refint\Kid's Fair.dll
+C:\Users\ployp\source\repos\Kid's Fair\Kid's Fair\obj\Debug\net6.0\Kid's Fair.pdb
+C:\Users\ployp\source\repos\Kid's Fair\Kid's Fair\obj\Debug\net6.0\Kid's Fair.genruntimeconfig.cache
+C:\Users\ployp\source\repos\Kid's Fair\Kid's Fair\obj\Debug\net6.0\ref\Kid's Fair.dll
+C:\Users\ployp\source\Programming\Malmö university\Project\Kid's Fair\Kid's Fair\bin\Debug\net6.0\Kid's Fair.exe
+C:\Users\ployp\source\Programming\Malmö university\Project\Kid's Fair\Kid's Fair\bin\Debug\net6.0\Kid's Fair.deps.json
+C:\Users\ployp\source\Programming\Malmö university\Project\Kid's Fair\Kid's Fair\bin\Debug\net6.0\Kid's Fair.runtimeconfig.json
+C:\Users\ployp\source\Programming\Malmö university\Project\Kid's Fair\Kid's Fair\bin\Debug\net6.0\Kid's Fair.dll
+C:\Users\ployp\source\Programming\Malmö university\Project\Kid's Fair\Kid's Fair\bin\Debug\net6.0\Kid's Fair.pdb
+C:\Users\ployp\source\Programming\Malmö university\Project\Kid's Fair\Kid's Fair\obj\Debug\net6.0\Kid's Fair.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ployp\source\Programming\Malmö university\Project\Kid's Fair\Kid's Fair\obj\Debug\net6.0\Kid's Fair.AssemblyInfoInputs.cache
+C:\Users\ployp\source\Programming\Malmö university\Project\Kid's Fair\Kid's Fair\obj\Debug\net6.0\Kid's Fair.AssemblyInfo.cs
+C:\Users\ployp\source\Programming\Malmö university\Project\Kid's Fair\Kid's Fair\obj\Debug\net6.0\Kid's Fair.csproj.CoreCompileInputs.cache
+C:\Users\ployp\source\Programming\Malmö university\Project\Kid's Fair\Kid's Fair\obj\Debug\net6.0\Kid's Fair.dll
+C:\Users\ployp\source\Programming\Malmö university\Project\Kid's Fair\Kid's Fair\obj\Debug\net6.0\refint\Kid's Fair.dll
+C:\Users\ployp\source\Programming\Malmö university\Project\Kid's Fair\Kid's Fair\obj\Debug\net6.0\Kid's Fair.pdb
+C:\Users\ployp\source\Programming\Malmö university\Project\Kid's Fair\Kid's Fair\obj\Debug\net6.0\Kid's Fair.genruntimeconfig.cache
+C:\Users\ployp\source\Programming\Malmö university\Project\Kid's Fair\Kid's Fair\obj\Debug\net6.0\ref\Kid's Fair.dll
